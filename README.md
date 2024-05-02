@@ -19,7 +19,8 @@ This project implements a Generative Adversarial Network (GAN) to detect fraudul
 - NumPy
 - scikit-learn
 - Matplotlib
-
+### Dataset
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data?select=creditcard.csv
 ### Setup Environment
 To set up your environment to run this code, follow these steps:
 
@@ -42,5 +43,4 @@ source venv/bin/activate
 # Install the requirements
 pip install -r requirements.txt
 
-### Dataset
-https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data?select=creditcard.csv
+
