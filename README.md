@@ -25,7 +25,9 @@ To set up your environment to run this code, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-github-username/credit-card-fraud-detection-gan.git
+[git clone https://github.com/your-github-username/credit-card-fraud-detection-gan.git]
+(https://github.com/MustfainTariq/Contrastive-Learning-s-Role-in-Enhancing-Anomaly-Detection-in-Multivariate-Time-Series-Data.git)
+
 cd credit-card-fraud-detection-gan
 
 # Create a virtual environment
@@ -39,3 +41,6 @@ source venv/bin/activate
 
 # Install the requirements
 pip install -r requirements.txt
+
+### Dataset
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data?select=creditcard.csv
